@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../MAC"
+		},
+		{
+			"path": "../capiefm"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
